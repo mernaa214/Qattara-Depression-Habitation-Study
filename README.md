@@ -7,7 +7,8 @@ Steps to initialize the project:
 ● Go to the Google Cloud Console:
       - Select or create a new project and search 
       - Navigate to APIs & Services > Library, Search for "Google Earth Engine API" and enable it for your project.
-      -----------------------------------------------------------------------------------------------------------------------------------------
+      
+---------------
 The Qattara Depression is a low-lying region in the northwestern part of Egypt and one of the largest natural depressions in the world. Its unique geographical and climatic characteristics make it an important area for environmental research and sustainable development planning.
 
 This project focuses on predicting precipitation levels in the Qattara Depression using Artificial Intelligence (AI) techniques, specifically by employing a Random Forest Regression model. Accurate precipitation predictions in this area are crucial for understanding water availability, managing potential agriculture development, and planning future land use in arid and semi-arid regions.
