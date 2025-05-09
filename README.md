@@ -11,6 +11,7 @@ The Qattara Depression is a low-lying region in the northwestern part of Egypt a
 This project focuses on predicting precipitation levels in the Qattara Depression using Artificial Intelligence (AI) techniques, specifically by employing a Random Forest Regression model. Accurate precipitation predictions in this area are crucial for understanding water availability, managing potential agriculture development, and planning future land use in arid and semi-arid regions.
 
 Objectives:
+
 ● Build a data-driven AI model using historical meteorological data such as: Temperature, Relative Humidity, Evaporation, Predict precipitation values based on these climate features.
 
 ● Evaluate the model’s performance using a 95% training and 5% testing strategy to ensure accuracy.
