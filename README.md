@@ -5,9 +5,7 @@ Steps to initialize the project:
 ● Sign Up for Google Earth Engine
 
 ● Go to the Google Cloud Console:
-
       - Select or create a new project and search 
-      
       - Navigate to APIs & Services > Library, Search for "Google Earth Engine API" and enable it for your project.
 
       
