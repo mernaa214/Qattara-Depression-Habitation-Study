@@ -29,5 +29,3 @@ Why the Qattara Depression?
 - It’s considered a potential site for renewable energy and water projects, making accurate climate modeling essential.
 
 This project demonstrates how machine learning and environmental data science can support sustainable development goals and environmental planning in sensitive regions like the Qattara Depression.
-
-OUTPUT : Studies on Qattara Depression habitation .xlsx
